@@ -1,0 +1,22 @@
+
+
+{
+  "name": "vadhack-middlwaresystem",
+  "version": "0.0.1",
+  "description": "Sistema de middlewares",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vadhack/middlewaresystem"
+  },
+  "author": "vadhack",
+  "license": "MIT",
+  "homepage": "https://www.vadhack.com/",
+  "dependencies": {
+    "fs-extra": "^0.16.3",
+    "mkdirp": "^0.5.0",
+    "multer": "^0.1.8",
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
